@@ -1248,7 +1248,7 @@ ${targetTweet}`);
               lineHeight: '1.5', 
               fontFamily: 'var(--font-heading)' 
             }}>
-              This gate requires wallet authentication. Only whitelisted recruits registered in the database can bypass this check.
+              Access to this gate requires wallet authentication. Entry is restricted exclusively to recruits who were deemed eligible during the previous academy registration period.
             </p>
 
             {/* Validation Status / Error */}
