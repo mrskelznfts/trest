@@ -2637,7 +2637,7 @@ ${targetTweet}`);
               }}>ACCESS DENIED</h2>
 
               <p style={{ color: '#fff', fontSize: '1.25rem', margin: '0 0 25px 0', lineHeight: '1.5', fontFamily: 'var(--font-heading)' }}>
-                This admission slot has already been claimed by another recruit.
+                We regret to inform you that you were not selected for this admission. We appreciate your interest and wish you the best of luck in your future endeavors.
               </p>
 
               <div style={{
