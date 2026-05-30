@@ -2182,7 +2182,7 @@ ${targetTweet}`);
                     <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
                       <button 
                         onClick={() => {
-                          window.open('https://x.com/TurcNFT/status/2058220693406556202?s=20', '_blank');
+                          window.open('https://x.com/TurcNFT/status/2060729891071623349?s=20', '_blank');
                           setStep2Clicked(true);
                           playConfirmSound(isMuted);
                         }}
